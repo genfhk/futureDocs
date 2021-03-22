@@ -1,2 +1,2 @@
 # ctod
-Committing to Documentation: The Site!
+Committing to Documentation: The template!
